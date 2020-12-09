@@ -2,6 +2,8 @@
 Curated list of machine learning and deep learning frameworks and resources for JVM 
 
 ## Deep Learning
+[KotlinDL](https://github.com/jetbrains/kotlindl): a high-level Deep Learning API written in Kotlin and inspired by Keras, backed by TensorFlow Java API. KotlinDL offers simple APIs for training deep learning models from scratch, importing existing Keras models for inference, and leveraging transfer learning for tweaking existing pre-trained models to your tasks.
+
 [deeplearning4j](https://github.com/eclipse/deeplearning4j): Deep Learning framework in Java that supports the whole cycle: from data loading and preprocessing to building and tuning a variety deep learning networks.
 
 [TensorFlow Java API](github.com/tensorflow/java): Java bindings for TensorFlow. 
